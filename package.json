@@ -1,11 +1,11 @@
 {
-  "name": "instagram-web-api",
-  "version": "2.2.2",
+  "name": "instagram-web-api-v2",
+  "version": "1.0.0",
   "description": "Instagram Private Web API client written in JS",
   "license": "MIT",
   "main": "lib/index.js",
-  "repository": "jlobos/instagram-web-api",
-  "author": "Jesus Lobos <jlobitu@gmail.com> (https://jlobos.com)",
+  "repository": "s-codes14/instagram-api",
+  "author": "Jesus Lobos <jlobitu@gmail.com> (https://jlobos.com), s-codes14 <smlmnguni14@gmail.com>",
   "scripts": {
     "lint": "xo",
     "test": "xo && ava"
